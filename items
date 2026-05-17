@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "name": "Monitor Light Bar with RGB Backlight – 6 Month Warranty | CO2",
+    "categories": "Computer Accessories, Light & Lamp",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400",
+    "originalPrice": "2,000.00",
+    "discountPrice": "1,190.00",
+    "discountBadge": "-41%",
+    "isNew": false,
+    "stars": 5,
+    "url": "/product/monitor-light-bar"
+  },
+  {
+    "id": "p2",
+    "name": "Nima 2 in 1 Blender & Grinder – Nima Japan",
+    "categories": "Kitchen Item",
+    "image": "https://images.unsplash.com/photo-1578643463396-0997cb5328c1?w=400",
+    "originalPrice": "1,800.00",
+    "discountPrice": "870.00",
+    "discountBadge": "-52%",
+    "isNew": true,
+    "stars": 0,
+    "url": "/product/nima-blender"
+  }
+]
