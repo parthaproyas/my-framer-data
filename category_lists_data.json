@@ -1,32 +1,38 @@
 [
   {
     "id": "c1",
-    "title": "HOME DECOR",
+    "title": "Cpu",
     "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=200",
     "url": "/category/home-decor"
   },
   {
     "id": "c2",
-    "title": "EARBUDS",
+    "title": "Ram",
     "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=200",
     "url": "/category/earbuds"
   },
   {
     "id": "c3",
-    "title": "ALL PRODUCTS",
+    "title": "Ssd",
     "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200",
     "url": "/all-products"
   },
   {
     "id": "c4",
-    "title": "POPULAR",
+    "title": "Psu",
     "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=200",
     "url": "/category/popular"
   },
   {
     "id": "c5",
-    "title": "LIGHT & LAMP",
+    "title": "Motherboard",
     "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=200",
     "url": "/category/lights"
+  },
+  {
+    "id": "c4",
+    "title": "Cooling",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=200",
+    "url": "/category/popular"
   }
 ]
