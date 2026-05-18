@@ -1,7 +1,7 @@
 [
   {
     "id": "monitor-light-bar-c02",
-    "category": "Light & Lamp",
+    "category": "Cooling",
     "name": "Monitor Light Bar with RGB Backlight",
     "price_original": "2,000",
     "price_discount": "1,190",
@@ -31,7 +31,7 @@
   },
   {
     "id": "ryzen-5-5600x",
-    "category": "CPU",
+    "category": "Cpu",
     "name": "AMD Ryzen 5 5600X Processor",
     "price_original": "19,000",
     "price_discount": "16,500",
