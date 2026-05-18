@@ -1,0 +1,60 @@
+[
+  {
+    "id": "monitor-light-bar-c02",
+    "category": "Light & Lamp",
+    "name": "Monitor Light Bar with RGB Backlight",
+    "price_original": "2,000",
+    "price_discount": "1,190",
+    "badge": "-41%",
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ],
+    "about": "Enhance your workspace with customizable RGB lighting or adjustable color temperatures. Perfect for work, gaming, or relaxation.",
+    
+    "features": [
+      "Modern Design: Fits easily on top of your monitor.",
+      "RGB Backlit: Customizable color options (2700K–7500K).",
+      "Touch Control: Easy brightness and mode adjustment."
+    ],
+    
+    "specs": [
+      { "item": "Lamp Type",   "detail": "RGB backlit monitor light bar" },
+      { "item": "Material",    "detail": "Durable ABS Plastic body" },
+      { "item": "Power",       "detail": "5V input voltage" }
+    ],
+    
+    "package": [
+      "1 x Monitor Light Bar",
+      "1 x User Manual"
+    ]
+  },
+  {
+    "id": "ryzen-5-5600x",
+    "category": "CPU",
+    "name": "AMD Ryzen 5 5600X Processor",
+    "price_original": "19,000",
+    "price_discount": "16,500",
+    "badge": "-13%",
+    "images": [
+      "https://example.com/cpu1.jpg"
+    ],
+    "about": "Elite gaming performance with high clock speeds and supreme multi-threaded processing power.",
+    
+    "features": [
+      "Zen 3 Specs: Reduces processing delays completely.",
+      "Precision Boost: Raises speeds automatically when gaming."
+    ],
+    
+    "specs": [
+      { "item": "Socket Type",    "detail": "AM4" },
+      { "item": "Cores/Threads",  "detail": "6 Cores / 12 Threads" },
+      { "item": "Base Speed",     "detail": "3.7 GHz" }
+    ],
+    
+    "package": [
+      "1 x AMD Ryzen CPU",
+      "1 x Stealth Cooler"
+    ]
+  }
+]
